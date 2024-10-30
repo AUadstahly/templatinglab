@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 interface Ingredient{
     String getName();
     double getQuantity();
@@ -45,7 +47,9 @@ class LiquidIngredient implements Ingredient {
     }
 }
 class Recipe<T extends Ingredient>{
-
+    private String name;
+    private String[] instructions;
+    private ArrayList<T> ingredients;
 }
 
 public class Main {
