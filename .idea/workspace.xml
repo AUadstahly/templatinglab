@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de89bae2-d2b7-4fd8-85fa-0e6ab77e1d64" name="Changes" comment="added recipe member variables">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="de89bae2-d2b7-4fd8-85fa-0e6ab77e1d64" name="Changes" comment="added main and addIngredient" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730312433617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added main and addIngredient">
+      <option name="closed" value="true" />
+      <created>1730484501590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730484501590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="added recipe member variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="added recipe member variables" />
+    <MESSAGE value="added main and addIngredient" />
+    <option name="LAST_COMMIT_MESSAGE" value="added main and addIngredient" />
   </component>
 </project>
